@@ -1,0 +1,5 @@
+It is good 
+But I don't really understand meaning of each step
+When merge the master and branch, there is a confilict 
+but when I tried to stage the changes 
+It works fine 
